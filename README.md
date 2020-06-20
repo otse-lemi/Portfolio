@@ -29,5 +29,5 @@ plt.figure(figsize = (18, 8))
 sns.barplot(data = skill_rank)
 ```
 
-![skill_profile](skill_profile.png)
+![skill_profile](skill_profile.jpg)
 
