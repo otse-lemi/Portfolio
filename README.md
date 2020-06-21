@@ -10,7 +10,7 @@ output: pdf_document
 
 ## Overview of my data science profile
 
-I am a curiously adventrous lady with little technical background. I have, in the past months been able to get my hands on materials to brush up my technical skills and also to properly acquaint myself with major aspects for better understanding of underlying principles in the tech field. I am mostly intrigued by the data science profession and would like to get on any interesting project. Please find below a barchart of my data science profile.
+I am adventrous with little technical background. I have, in the past months been able to get my hands on materials to brush up my technical skills and also to properly acquaint myself with major aspects for better understanding of underlying principles in the tech field. I am mostly intrigued by the data science profession and would like to get on any interesting project. Please find below a barchart of my data science profile.
 
 ```{python echo=FALSE}
 import pandas as pd
